@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 An interactive Excel dashboard evaluating customer churn metrics, international plan performance, and competitor vulnerabilities.
 ## Project Objective
-The goal of this project was to analyse customer data to identify the primary drivers of custoer churn. By building an interactive KPI and a visual dashboard in Excel, this analysis uncovers actionable insights to improve retention strategies, minimise revenue loss, and address competitive vulnerabilities.
+The goal of this project was to analyse customer data to identify the primary drivers of customer churn. By building an interactive KPI and a visual dashboard in Excel, this analysis uncovers actionable insights to improve retention strategies, minimise revenue loss, and address competitive vulnerabilities.
 ## Technical skills applied 
 *Data Formatting and layout: Structered a clean dashboard overview using grid alignment and customised KPI cards.
 
